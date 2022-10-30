@@ -1,1 +1,1 @@
-# export_last-month_data_elasticsearch
+# Export the previous month's data from the elasticsearch index in CSV format.
